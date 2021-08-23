@@ -1,0 +1,82 @@
+body
+{
+    background-color: #ffcc66;
+    padding: 0;
+    margin: 0;
+}
+.first
+{
+    background-color: #436ba7;
+    padding: 15px;
+}
+.first li
+{
+    display: inline;
+    padding: 10px;
+    background-color: teal;
+}
+.forgrid1
+{
+    display: grid;
+    grid-template-columns: 60% 40%;
+}
+.third
+{
+    background-color: white;
+    height: 200px;
+    border: groove;
+    margin: 10px;
+    border-color: greenyellow;
+}
+.forgrid2
+{
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+.fourth
+{
+    background-color: white;
+    height: 100px;
+    border-style: double ;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-color: greenyellow;
+}
+.fifth
+{
+    margin: 15px;
+}
+.seventh
+{
+    background-color: white;
+    border: groove;
+    margin-top: 20px;
+    border-color: greenyellow;
+}
+.ninth
+{
+    background-color: #d8712d;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.tenth
+{
+    color: white;
+    margin-left: 15px;
+}
+.eleventh
+{
+    margin-right: 80px;
+}
+.imgposition
+{
+    vertical-align: middle;
+}
+img 
+{
+    opacity: 0.5;
+}
+img:hover 
+{
+    opacity: 1.0;
+}
